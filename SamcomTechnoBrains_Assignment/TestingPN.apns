@@ -1,0 +1,14 @@
+
+
+{
+    "aps": {
+        "alert": {
+            "title" : " Test Notification" ,
+            "body"  : " Hi There"
+        },
+        "badge" : 1
+    },
+    "Simulator Target Bundle": "com.bitdegree.SamcomTechnoBrains-Assignment"
+}
+
+
